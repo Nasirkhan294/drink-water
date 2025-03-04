@@ -36,6 +36,7 @@ h3 {
 	width: 150px;
 	margin: 30px auto;
 	display: flex;
+	flex-direction: column;
 	overflow: hidden;
 }
 
